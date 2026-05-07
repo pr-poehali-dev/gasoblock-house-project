@@ -624,6 +624,8 @@ export default function Index() {
         <div style={{ maxWidth: 1280, margin: "24px auto 0", padding: "24px 24px 0", borderTop: "1px solid rgba(255,255,255,0.04)", display: "flex", flexWrap: "wrap", gap: 24, justifyContent: "space-between" }}>
           <div style={{ color: "rgba(255,255,255,0.18)", fontSize: 11, fontFamily: "'Golos Text', sans-serif", lineHeight: 1.8 }}>
             <span>ООО «СК Малахит 39» · ИНН: 3900021785 · КПП: 390001001 · ОГРН: 1243900001718</span>
+            <br />
+            <span>Строительство домов под ключ с отделкой, в белом и сером ключе в Калининграде и области.</span>
           </div>
           <div style={{ color: "rgba(255,255,255,0.18)", fontSize: 11, fontFamily: "'Golos Text', sans-serif", lineHeight: 1.8 }}>
             Юридический адрес: 236013, Калининградская область, г. Калининград, ул. Карташева, д. 2б, кв. 13
