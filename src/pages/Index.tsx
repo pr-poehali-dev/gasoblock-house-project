@@ -538,7 +538,6 @@ export default function Index() {
               <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
                 {[
                   { icon: "Phone", label: "Телефон", val: "+7 962 267 47-79" },
-                  { icon: "Mail", label: "Email", val: "info@malachite.ru" },
                   { icon: "MapPin", label: "Адрес", val: "г. Калининград, ТЦ «Кловер», 7 этаж, 717 офис" },
                   { icon: "Clock", label: "Режим работы", val: "Пн–Пт: 9:00–19:00" },
                 ].map((c) => (
