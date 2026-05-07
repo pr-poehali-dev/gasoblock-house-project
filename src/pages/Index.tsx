@@ -166,9 +166,9 @@ export default function Index() {
             ))}
           </div>
 
-          <a href="tel:+74012000000" className="hidden md:flex" style={{ alignItems: "center", gap: 8, fontSize: 14, fontFamily: "'Golos Text', sans-serif", fontWeight: 500, color: "rgba(255,255,255,0.8)", textDecoration: "none" }}>
+          <a href="tel:+79622674779" className="hidden md:flex" style={{ alignItems: "center", gap: 8, fontSize: 14, fontFamily: "'Golos Text', sans-serif", fontWeight: 500, color: "rgba(255,255,255,0.8)", textDecoration: "none" }}>
             <Icon name="Phone" size={15} />
-            +7 (4012) 00-00-00
+            +7 962 267 47-79
           </a>
 
           <button className="lg:hidden" onClick={() => setMenuOpen(!menuOpen)} style={{ background: "none", border: "none", cursor: "pointer", color: "rgba(255,255,255,0.8)" }}>
@@ -183,8 +183,8 @@ export default function Index() {
                 {item.label}
               </button>
             ))}
-            <a href="tel:+74012000000" style={{ fontSize: 14, color: "rgba(255,255,255,0.6)", display: "flex", alignItems: "center", gap: 8, textDecoration: "none" }}>
-              <Icon name="Phone" size={14} /> +7 (4012) 00-00-00
+            <a href="tel:+79622674779" style={{ fontSize: 14, color: "rgba(255,255,255,0.6)", display: "flex", alignItems: "center", gap: 8, textDecoration: "none" }}>
+              <Icon name="Phone" size={14} /> +7 962 267 47-79
             </a>
           </div>
         )}
@@ -537,7 +537,7 @@ export default function Index() {
 
               <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
                 {[
-                  { icon: "Phone", label: "Телефон", val: "+7 (4012) 00-00-00" },
+                  { icon: "Phone", label: "Телефон", val: "+7 962 267 47-79" },
                   { icon: "Mail", label: "Email", val: "info@malachite.ru" },
                   { icon: "MapPin", label: "Адрес", val: "Калининград, ул. Строительная, 1" },
                   { icon: "Clock", label: "Режим работы", val: "Пн–Пт: 9:00–19:00" },
