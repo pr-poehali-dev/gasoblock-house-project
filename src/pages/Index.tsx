@@ -288,13 +288,10 @@ export default function Index() {
             <AnimSection>
               <div style={{ color: "hsl(152,48%,52%)", fontFamily: "'Oswald', sans-serif", fontSize: 11, letterSpacing: "0.15em", textTransform: "uppercase", marginBottom: 16 }}>О компании</div>
               <h2 style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.05em", fontSize: "2.2rem", color: "#fff", marginBottom: 24, lineHeight: 1.15 }}>
-                СК Малахит — надёжность в каждом кирпиче
+                Кто мы?
               </h2>
-              <p style={{ color: "rgba(255,255,255,0.65)", fontFamily: "'Golos Text', sans-serif", lineHeight: 1.75, marginBottom: 20, fontSize: 15 }}>
-                Мы строим частные дома в Калининграде и области с 2009 года. За это время сдали более 380 объектов и ни разу не вышли за рамки согласованного бюджета.
-              </p>
               <p style={{ color: "rgba(255,255,255,0.65)", fontFamily: "'Golos Text', sans-serif", lineHeight: 1.75, marginBottom: 32, fontSize: 15 }}>
-                Мы несём финансовую ответственность за качество и сроки. Стоимость фиксируется в договоре — никаких дополнительных счетов в процессе строительства.
+                «Малахит 39» — это аккредитованная строительная компания, имеющая долгосрочные партнёрские отношения со всеми ведущими банками. Более 50 построенных домов. Мы гордимся нашими проектами, соблюдаем сроки и уважаем ваш бюджет.
               </p>
               <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
                 {[
