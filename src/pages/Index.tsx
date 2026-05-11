@@ -220,6 +220,11 @@ export default function Index() {
 
         <div style={{ position: "relative", maxWidth: 1280, margin: "0 auto", padding: "128px 24px 80px" }}>
           <div style={{ maxWidth: 680 }}>
+            <div style={{ display: "inline-flex", alignItems: "center", gap: 8, padding: "8px 16px", borderRadius: 2, marginBottom: 32, border: "1px solid hsl(152,48%,28%)", color: "hsl(152,45%,60%)", background: "hsla(152,48%,15%,0.3)", fontFamily: "'Oswald', sans-serif", fontSize: 11, letterSpacing: "0.15em", textTransform: "uppercase" }}>
+              <span style={{ width: 6, height: 6, borderRadius: "50%", background: "hsl(152,48%,50%)" }}></span>
+              Мы строим ваши мечты
+            </div>
+
             <h1 style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, textTransform: "uppercase", lineHeight: 1.05, marginBottom: 24, fontSize: "clamp(2rem, 4vw, 3.4rem)", color: "#fff" }}>
               Строительство домов<br />
               <span style={{ color: "hsl(152,48%,52%)" }}>в Калининграде и области</span><br />
