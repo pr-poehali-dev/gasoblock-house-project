@@ -150,11 +150,9 @@ export default function Index() {
       >
         <div style={{ maxWidth: 1280, margin: "0 auto", padding: "0 24px", height: 64, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <button onClick={() => scrollTo("#hero")} style={{ display: "flex", alignItems: "center", gap: 10, background: "none", border: "none", cursor: "pointer" }}>
-            <div style={{ width: 32, height: 32, borderRadius: 4, background: "hsl(152,48%,28%)", display: "flex", alignItems: "center", justifyContent: "center" }}>
-              <span style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, color: "#fff", fontSize: 14 }}>М</span>
-            </div>
+            <img src="https://cdn.poehali.dev/projects/bae8b394-b764-4a82-b30e-675424263613/bucket/9f20fcc7-f298-4d47-a46d-b2a3afbf6ff3.jpg" alt="СК МАЛАХИТ 39" style={{ height: 40, width: "auto", objectFit: "contain" }} />
             <span style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, color: "#fff", letterSpacing: "0.15em", textTransform: "uppercase", fontSize: 14 }}>
-              СК Малахит
+              СК МАЛАХИТ 39
             </span>
           </button>
 
