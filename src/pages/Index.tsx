@@ -232,7 +232,7 @@ export default function Index() {
             </h1>
 
             <p style={{ color: "rgba(255,255,255,0.7)", fontFamily: "'Golos Text', sans-serif", fontSize: 18, lineHeight: 1.7, marginBottom: 40, maxWidth: 560 }}>
-              От покупки участка до ввода дома в эксплуатацию.
+              Полный цикл строительства — от проекта до ключей. Фиксированная цена в договоре. Средний срок — 180 дней.
             </p>
 
             <div style={{ display: "flex", flexWrap: "wrap", gap: 16 }}>
