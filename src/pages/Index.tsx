@@ -225,7 +225,7 @@ export default function Index() {
               Строительная компания · Калининград
             </div>
 
-            <h1 style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, textTransform: "uppercase", lineHeight: 1.05, marginBottom: 24, fontSize: "clamp(2.8rem, 6vw, 5rem)", color: "#fff" }}>
+            <h1 style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, textTransform: "uppercase", lineHeight: 1.05, marginBottom: 24, fontSize: "clamp(2rem, 4vw, 3.4rem)", color: "#fff" }}>
               Строительство домов<br />
               <span style={{ color: "hsl(152,48%,52%)" }}>в Калининграде и области</span><br />
               от 55 000 за м²
