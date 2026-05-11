@@ -231,7 +231,7 @@ export default function Index() {
               от 55 000 за м²
             </h1>
 
-            <p style={{ color: "rgba(255,255,255,0.7)", fontFamily: "'Golos Text', sans-serif", fontSize: 54, lineHeight: 1.7, marginBottom: 40, maxWidth: 560 }}>
+            <p style={{ color: "rgba(255,255,255,0.7)", fontFamily: "'Golos Text', sans-serif", fontSize: 32, lineHeight: 1.7, marginBottom: 40, maxWidth: 560 }}>
               Смета дома за 15 минут.
             </p>
 
