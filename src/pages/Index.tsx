@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import Icon from "@/components/ui/icon";
 
-const HERO_IMG = "https://cdn.poehali.dev/projects/bae8b394-b764-4a82-b30e-675424263613/files/d70e887b-2ce3-4938-9acf-1ccaa875ebe8.jpg";
+const HERO_IMG = "https://static.tildacdn.com/tild3232-3336-4133-a132-633033306361/a7e01016339944963e50.jpg";
 const HOUSE_IMG = "https://cdn.poehali.dev/projects/bae8b394-b764-4a82-b30e-675424263613/files/9af1c949-40b8-4ba1-9673-6e277c3e4dd7.jpg";
 const TEAM_IMG = "https://cdn.poehali.dev/projects/bae8b394-b764-4a82-b30e-675424263613/files/2d729afc-0d38-4511-9f82-0e497823fc28.jpg";
 
