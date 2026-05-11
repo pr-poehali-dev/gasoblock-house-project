@@ -226,9 +226,9 @@ export default function Index() {
             </div>
 
             <h1 style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, textTransform: "uppercase", lineHeight: 1.05, marginBottom: 24, fontSize: "clamp(2.8rem, 6vw, 5rem)", color: "#fff" }}>
-              Строим дома,<br />
-              <span style={{ color: "hsl(152,48%,52%)" }}>которые живут</span><br />
-              десятилетиями
+              Строительство домов<br />
+              <span style={{ color: "hsl(152,48%,52%)" }}>в Калининграде и области</span><br />
+              от 55 000 за м²
             </h1>
 
             <p style={{ color: "rgba(255,255,255,0.7)", fontFamily: "'Golos Text', sans-serif", fontSize: 18, lineHeight: 1.7, marginBottom: 40, maxWidth: 560 }}>
